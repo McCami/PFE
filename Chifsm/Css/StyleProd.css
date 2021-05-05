@@ -1,0 +1,94 @@
+﻿.modalBackground21 {
+    background-color: black;
+    filter: alpha(opacity= 90) !important;
+    opacity: 0.6 !important;
+    z-index: 20;
+}
+
+.produit {
+    color: #3ec8ff;
+}
+
+#produit {
+    color: #3ec8ff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.hiddencol {
+    display: none;
+}
+
+
+#tab td {
+    padding: 2px;
+}
+
+#tab th {
+    padding: 2px;
+}
+
+.MyCalendar .ajax__calendar_container {
+    border: none;
+    background-color: white;
+    color: blue;
+}
+
+.ajax__calendar_prev, .ajax__calendar_next {
+    z-index: 1;
+}
+
+.ddl {
+    border: 2px solid #7d6754;
+    border-radius: 5px;
+    padding: 3px;
+    -webkit-appearance: none;
+    /*background-image:url('Images/Arrowhead-Down-01.png');*/
+    background-position: 88px;
+    background-repeat: no-repeat;
+    text-indent: 0.01px; /*In Firefox*/
+    text-overflow: ''; /*In Firefox*/
+}
+
+.modalBackground21 {
+    background-color: black;
+    filter: alpha(opacity= 90) !important;
+    opacity: 0.6 !important;
+    z-index: 20;
+}
+
+table tbody {
+    padding: 2px;
+}
+
+table th {
+    padding: 2px;
+}
+
+.modalpopup21 {
+    align-content: center;
+    /*padding: 0px 0px 10px 10px;*/
+    /*top:50%;
+        left:50%;*/
+    padding: 4px;
+    margin-top: -325px;
+    width: 500px;
+    height: auto;
+    position: relative;
+    background-color: white;
+    border: 2px solid white;
+}
+
+.close {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+    .close:hover,
+    .close:focus {
+        color: #000;
+        text-decoration: none;
+        cursor: pointer;
+    }

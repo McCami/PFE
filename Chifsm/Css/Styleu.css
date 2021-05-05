@@ -1,0 +1,184 @@
+﻿
+
+.hiddencol {
+    display: none;
+}
+
+.vll {
+    border-left: 2px solid green;
+    opacity: 0.6;
+    height: 350px;
+}
+/*#form1 {
+            text-align: center;*/
+
+
+
+.metro {
+    color: inherit;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.item {
+    width: 350px;
+    height: auto;
+    float: left;
+    margin: 4px;
+    text-align: left;
+    position: relative;
+    transition: 0.4s;
+}
+
+.scrollbar {
+    margin-left: 30px;
+    float: left;
+    height: 300px;
+    width: 65px;
+    background: #F5F5F5;
+    overflow-y: scroll;
+    margin-bottom: 25px;
+}
+
+.force-overflow {
+    min-height: 450px;
+}
+
+#style-2::-webkit-scrollbar {
+    width: 2px;
+    background-color: black;
+}
+
+
+#style-2::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+    border-radius: 0px;
+    background-color: gray;
+}
+
+#style-2::-webkit-scrollbar {
+    width: 6px;
+    background-color: gray;
+}
+
+#style-2::-webkit-scrollbar-thumb {
+    width: 20px;
+    border-radius: 0px;
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);
+    background-color: black;
+    cursor: auto;
+}
+
+
+
+
+.modalBackground21 {
+    background-color: black;
+    filter: alpha(opacity= 90) !important;
+    opacity: 0.6 !important;
+    z-index: 20;
+}
+
+.modalpopup {
+    width: 400px;
+    height: auto;
+    padding: inherit;
+    /*float:left;*/
+    background: white;
+    margin: inherit;
+    /*cursor:pointer;*/
+    text-align: center;
+    position: relative;
+    /*text-transform:uppercase;*/
+    /*transition: 0.4s;*/
+    /*transform: translate(-100%,-100%);*/
+}
+
+.hiddencol {
+    display: none;
+}
+
+.MyCalendar .ajax__calendar_container {
+    border: none;
+    background-color: white;
+    color: blue;
+}
+
+.ajax__calendar_prev, .ajax__calendar_next {
+    z-index: 1;
+}
+
+.ddl {
+    border: 2px solid #7d6754;
+    border-radius: 5px;
+    padding: 3px;
+    -webkit-appearance: none;
+    /*background-image:url('Images/Arrowhead-Down-01.png');*/
+    background-position: 88px;
+    background-repeat: no-repeat;
+    text-indent: 0.01px; /*In Firefox*/
+    text-overflow: ''; /*In Firefox*/
+}
+
+.Drop {
+    width: 400px;
+    height: auto;
+    /*padding:4px 4px 4px 20px;*/
+    float: left;
+    background: white;
+    /*margin:10px;*/
+    /*cursor:pointer;*/
+    text-align: center;
+    position: relative;
+    /*text-transform:uppercase;*/
+    /*transition: 0.4s;*/
+    transform: translate(-50%,-50%);
+}
+
+.modalBackground21 {
+    background-color: black;
+    filter: alpha(opacity= 90) !important;
+    opacity: 0.6 !important;
+    z-index: 20;
+}
+
+table tbody {
+    padding: 2px;
+}
+
+table th {
+    padding: 2px;
+}
+
+.modalpopup21 {
+    align-content: center;
+    /*padding: 0px 0px 10px 10px;*/
+    /*top:50%;
+        left:50%;*/
+    padding: 42px;
+   
+    width: 400px;
+    height: auto;
+    position: relative;
+    background-color: white;
+    border: 2px solid black;
+}
+
+.close {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+    .close:hover,
+    .close:focus {
+        color: #000;
+        text-decoration: none;
+        cursor: pointer;
+    }
+
+
+
