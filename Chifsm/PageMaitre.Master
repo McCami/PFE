@@ -1,0 +1,57 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="PageMaitre.master.cs" Inherits="Chifsm.PageMaitre" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style1 {
+            width: 900px;
+        }
+        body{
+             background: #2b5797;
+        }
+        
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            
+            <table align="center" class="auto-style1">
+                <tr>
+                    <td><a href="WebForm1.aspx"  >
+                           <img src="Images/done.png"  style="width:205px;height:auto " />
+                       </a> 
+                      </td>
+                    <td><a class="active" href="Produits.aspx" style="color:white;background-color:none">Produit</a>
+                        </td>
+                    <td>
+                          <a class="active" href="Magasin.aspx"style="color:white;font:700"  ><span >Magasin</span></a>
+                        </td>
+                    <td> 
+                        <a class="active" href="Lot.aspx" style="color:dimgray" ><span style="font:bold 45px;color: lightblue">Lots</span></a>
+                        </td>
+                    <td>
+                        <a class="active" href="Utilisateur.aspx" style="color:white">Utilisateur</a>
+                        </td>
+                </tr>
+                <tr>
+                    <td colspan="5">
+                        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                        </asp:ContentPlaceHolder>
+                    </td>
+                </tr>
+                <tr>
+                    <td colspan="5"><div> </div></td>
+                </tr>
+            </table>
+            
+        </div>
+    </form>
+</body>
+</html>

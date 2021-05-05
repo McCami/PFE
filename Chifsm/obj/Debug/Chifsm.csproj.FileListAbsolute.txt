@@ -1,0 +1,7 @@
+C:\Users\Manny\Documents\Pfe\Chifsm\Chifsm\bin\Chifsm.dll.config
+C:\Users\Manny\Documents\Pfe\Chifsm\Chifsm\bin\Chifsm.dll
+C:\Users\Manny\Documents\Pfe\Chifsm\Chifsm\bin\Chifsm.pdb
+C:\Users\Manny\Documents\Pfe\Chifsm\Chifsm\obj\Debug\Chifsm.csprojAssemblyReference.cache
+C:\Users\Manny\Documents\Pfe\Chifsm\Chifsm\obj\Debug\Chifsm.csproj.CoreCompileInputs.cache
+C:\Users\Manny\Documents\Pfe\Chifsm\Chifsm\obj\Debug\Chifsm.dll
+C:\Users\Manny\Documents\Pfe\Chifsm\Chifsm\obj\Debug\Chifsm.pdb
